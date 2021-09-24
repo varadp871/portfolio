@@ -1,2 +1,3 @@
-# portfolio
-My Portfolio site made with ReactJS
+# My Portfolio
+My Basic Portfolio site made with ReactJS.
+WORK IN PROGRESS!
