@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 
-import Landing from "./components/subcomponents/Landing";
+import Home from "./components/Home";
 
 const App = () => {
-  return <Landing />;
+  return <Home />;
 };
 
 export default App;

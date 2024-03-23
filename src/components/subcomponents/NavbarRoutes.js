@@ -7,10 +7,10 @@ const NavbarRoutes = () => {
     <Router>
       <Navbar />
       <Switch>
-        <Route path="/"> {/* Render your Home component here */} </Route>
-        <Route path="/about"> {/* Render your About component here */} </Route>
-        <Route path="/resume"> {/* Render your Resume component here */} </Route>
-        <Route path="/contact"> {/* Render your Contact component here */} </Route>
+        <Route path="/"> {<h2>Home</h2>} </Route>
+        <Route path="/about"> {/* Render your About component here */<h2>About</h2>} </Route>
+        <Route path="/resume"> {/* Render your Resume component here */<h2>Resume</h2>} </Route>
+        <Route path="/contact"> {/* Render your Contact component here */<h2>Contact</h2>} </Route>
       </Switch>
     </Router>
   );
